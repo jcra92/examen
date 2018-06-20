@@ -1,0 +1,67 @@
+
+Materia: Compiladores y Desarrollo de librerías 		            Tipo: B
+Nombre: ___________________________________________
+Email: ____________________________________________
+
+
+
+1.	Los tipos de código intermedio son:
+      a.	No lo recuerdo, tal vez sea algo hybrido 
+      b.	Se que son 3 pero no sé cuáles son
+      c.	Se que son 3 y uno de ellos es structural, pero los otros dos no los recuerdo.
+      d.	Estoy seguro de que además del structural existe el lineal y otro, pero no se cual
+      e.	Structural, lineal and hybrid 
+2.	Las siglas TAC ablando de compiladores definen:
+      a.	Diagrama de Árbol Lógico
+      b.	Todos Aman Comer
+      c.	Three Address Code
+      d.	Todas Las Anteriores
+      e.	Ninguna de las anteriores
+3.	El TAC  (Three Adrees Code) para assignment statement de forma general puede ser:
+      a.	x := y op z
+      b.	x := -y
+      c.	x := y
+      d.	Todas Las Anteriores
+      e.	Ninguna de las anteriores
+4.	El TAC  (Three Adrees Code) para jump instruction de forma general pude ser mapeado a (en idioma ingles):
+      a.	Brinca etiqueta
+      b.	Salta a etiqueta
+      c.	Corre lejos
+      d.	Goto label 
+      e.	Todas Las Anteriores
+5.	Para generar el codigo intermedio, se pueden usar estas funciones:
+      a.	Respuestas a y b
+      b.	Respuestas a y c
+      c.	emit ()
+      d.	generate ()
+      e.	respuestas c y d 
+6.	La optimización del código intermedio se puede dividir en:
+      a.	Dependiente e independiente de la maquina 
+      b.	La optimización solo depende del desarrollador
+      c.	El compilador no puede optimizar el código
+      d.	Todas las anteriores
+      e.	Ninguna de las anteriores
+7.	Algunas técnicas de optimización pueden ser:
+      a.	Cálculo previo de constantes
+      b.	Reducción de fuerza y frecuencia
+      c.	Optimización de lazos(ciclos)
+      d.	Eliminación de código
+      e.	Todas las anteriores
+8.	Es una técnica de desarrollo de software:
+      a.	Poner atención y programar en base a requerimientos del gerente encargado del proyecto
+      b.	No hay una técnica específica para desarrollo de software 
+      c.	Integración continua
+      d.	Todas las anteriores
+      e.	Ninguna de las anteriores
+9.	Que herramienta de software se utiliza para compilar y construir el binario final
+      a.	Usas make
+      b.	No se usa una herramienta, es mejor hacer toda la compilación de forma manual
+      c.	Usas awk
+      d.	Todas las anteriores
+      e.	Ninguna de las anteriores
+10.	Que es git?
+      a.	No tengo idea de que es, tal vez sea algo que ayude a controla los cambios del código 
+      b.	Es algo que vimos en clase, pero no recuerdo para que sirve
+      c.	Un control de versiones distribuido 
+      d.	Todas las anteriores
+      e.	Ninguna de las anteriores
