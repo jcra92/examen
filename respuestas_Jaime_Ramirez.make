@@ -1,6 +1,7 @@
 	#Makefile
   #Respuestas de examen 2
   
+  Respuestas:
   echo "Pregunta uno: e"
   echo "Pregunta dos: c"
   echo "Pregunta tres: c"
@@ -11,4 +12,6 @@
   echo "Pregunta ocho: c"
   echo "Pregunta nueve: c"
   echo "Pregunta diez: c"
+  
+  
  
