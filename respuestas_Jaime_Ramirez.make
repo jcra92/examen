@@ -1,17 +1,14 @@
-#include <iostream>
-
-main()
-{
-cout<<"Pregunta uno: e"<<endl;
-cout<<"Pregunta dos: c"<<end;
-cout<<"Pregunta tres: c"<<end;
-cout<<"Pregunta cuatro: d"<<end;
-cout<<"Pregunta cinco: e"<<end;
-cout<<"Pregunta seis: a"<<end;
-cout<<"Pregunta siete: e"<<end;
-cout<<"Pregunta ocho: c"<<end;
-cout<<"Pregunta nueve: c"<<end;
-cout<<"Pregunta diez: c"<<end;
-return 0;
-}
-
+	#Makefile
+  #Respuestas de examen 2
+  
+  echo "Pregunta uno: e"
+  echo "Pregunta dos: c"
+  echo "Pregunta tres: c"
+  echo "Pregunta cuatro: d"
+  echo "Pregunta cinco: e"
+  echo "Pregunta seis: a"
+  echo "Pregunta siete: e"
+  echo "Pregunta ocho: c"
+  echo "Pregunta nueve: c"
+  echo "Pregunta diez: c"
+ 
